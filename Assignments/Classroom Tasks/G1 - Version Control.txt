@@ -1,0 +1,10 @@
+Generate and explore a merge conflict as follows.
+
+1. Create a public git version control repository in a central store (e.g., GitHub, BitBucket or similar).
+2. Add at least one file to the repository.
+3. Everyone in the group should clone the repository.
+4. Two separate individuals should make a change to the same file and commit.
+5. One individual should push the commit to the central repository.
+6. The other person should try to push, resulting in a marge conflict.
+
+Upload the URL of the repository into the assignment submission.
