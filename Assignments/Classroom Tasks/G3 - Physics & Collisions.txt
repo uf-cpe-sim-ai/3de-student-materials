@@ -1,0 +1,7 @@
+a) Think about the different collision shapes (circle, rectangle, and polygon). Which would be the least expensive, computationally? Which would be the most expensive? Why? Think about how the engine would need to do different comparisons.
+
+b) What type of physics body (static, rigid, or character) would you want to use for an AI "enemy" (gomba / koopa / etc.)? How about moving platforms? Falling rocks? (Why?)
+
+c) Think about some of the objects in games you've played. Can you point out the collision shapes and/or physics bodies do the objects use? How do you know?
+
+d) Think about how you could apply the physics bodies and collision areas in your project.
