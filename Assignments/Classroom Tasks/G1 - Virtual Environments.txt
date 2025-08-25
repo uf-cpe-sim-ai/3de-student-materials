@@ -1,0 +1,3 @@
+Consider your project goal and the engine structure discussed in class.
+
+Now that we've started to explore how the engine scenes and nodes work, you should be able to begin to envision how a project could be assembled. How would you represent various game objects or concepts in the engine? Can you imagine how you might assemble the various "scenes" in your game? How do they match up with the "scenes" in the engine, and how might they differ (if at all)?
