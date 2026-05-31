@@ -1,0 +1,8 @@
+Elect as a group to either 1) write 400-600 word response or 2) develop a "poster" / slide / slidedeck (no more than 2 slides) based on the following prompt. Submit on Canvas when you are done.
+
+REMEMBER TO FORM YOUR GROUPS FIRST AND "SIGN UP" ON CANVAS! Otherwise, **you will not get credit for this assignment**.
+--
+
+a) Talk about your favorite simulations (including games) and their salient, impactful features / elements (setting, storyline, characters, mechanocs, audio / visuals / visceral elements).  Talk about what eras of computer technology, and what environmental design elements, play a major role in these simulations. Then, consider and discuss how the environments are set up. What are the scenes made up of? Are they reused, or are elements of them reused? How does this impact the experience?
+
+b) Discuss the pitch you are working on in terms for spatial / scene system design (e.g., "voxel", "room", etc.) based on your current understanding of games, levels, and scenes.. You may use features discussed earlier as guides, and/or you can develop entirely new ones. Sketch out the simulation's main features / elements.
